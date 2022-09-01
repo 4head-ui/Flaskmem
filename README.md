@@ -1,3 +1,4 @@
 # Flaskmem
-Обычный одностраничный фласк проект с игрой камень,ножницы,бумага
+Простой одностраничный Flask проект с игрой камень,ножницы,бумага(FLask с шаблонами bootstrap'a)
+
 Simple pretty Flask project with game Rock Paper Scissors
